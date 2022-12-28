@@ -14,7 +14,7 @@ const data = {
           },
           {
             name: 'HP Laptop',
-            slug: 'hp-lapto',
+            slug: 'hp-laptop',
             category: 'Laptops',
             image: '/images/2.png',
             price: 8.000,
