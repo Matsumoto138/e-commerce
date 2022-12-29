@@ -9,16 +9,6 @@ body {
   min-height: 100vh;
 }
 
-header{
-  background-color: rgb(226, 226, 226);
-  padding: 1rem;
-}
-
-header a{
-  color: #131313;
-  font-weight: bold;
-  text-decoration: none;
-}
 
 .products{
   display: flex;
@@ -38,4 +28,8 @@ header a{
 .product-info{
   width: 100%;
   padding: 1rem;
+}
+
+.rating span{
+  color: #ffc000;
 }
