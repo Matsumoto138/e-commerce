@@ -63,7 +63,7 @@ function HomeScreen() {
           </Row>
         )}
       </div>
-    </div>
+      </div>
   );
 }
 
