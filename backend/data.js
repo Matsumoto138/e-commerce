@@ -1,7 +1,7 @@
 const data = {
     products: [
         {
-            _id: '1',
+           // _id: '1',
             name: 'I-Phone 13 Pro',
             slug: 'iphone-13-pro',
             category: 'Phones',
@@ -14,7 +14,7 @@ const data = {
             description: 'high quality phone',
           },
           {
-            _id: '2',
+            //_id: '2',
             name: 'HP Laptop',
             slug: 'hp-laptop',
             category: 'Laptops',
@@ -27,7 +27,7 @@ const data = {
             description: 'high quality product',
           },
           {
-            _id: '3',
+            //_id: '3',
             name: 'Canon Camera',
             slug: 'canon-camera',
             category: 'Cameras',
@@ -40,7 +40,7 @@ const data = {
             description: 'high quality product',
           },
           {
-            _id: '4',
+            //_id: '4',
             name: 'Adidas Fit Jacket',
             slug: 'adidas-fit-jacket',
             category: 'Clothes',
